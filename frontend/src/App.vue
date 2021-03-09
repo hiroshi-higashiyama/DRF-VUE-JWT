@@ -3,7 +3,7 @@
     <nav class="navbar is-dark">
       <div class="navbar-brand">
         <router-link to="/" class="navbar-item"
-          ><strong>Invoicely</strong></router-link
+          ><strong>Sample</strong></router-link
         >
       </div>
 
@@ -13,14 +13,11 @@
             <router-link to="/dashboard" class="navbar-item"
               >Dashboard</router-link
             >
-            <router-link to="/dashboard/clients" class="navbar-item"
-              >Clients</router-link
-            >
 
             <div class="navbar-item">
               <div class="buttons">
                 <router-link to="/dashboard/my-account" class="button is-light"
-                  >My account</router-link
+                  >Account</router-link
                 >
               </div>
             </div>
